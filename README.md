@@ -24,7 +24,7 @@ Make sure you have Node.js installed on your system. You can download it from [n
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mermaid-vizualiser.git
+git clone https://github.com/wilandrade/mermaid-vizualiser.git
 cd mermaid-vizualiser
 ```
 
